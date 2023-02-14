@@ -641,7 +641,6 @@ button:focus {
   }
     #my-name {
     font-size: 2rem;
-    font-weight: 1000;
   }
 }
 @media only screen and (max-width: 768px) {
