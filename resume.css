@@ -645,7 +645,7 @@ button:focus {
     color: white;
     padding-bottom: 30px;
     background-color: lightgray;
-    background-image: url(image/animated-car.gif);
+    background-image: url(animated-car.gif);
     background-repeat: no-repeat;
     background-attachment: relative;
     background-size: 100% 15%;
