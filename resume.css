@@ -636,7 +636,7 @@ button:focus {
 }
 @media only screen and (max-width: 768px) {
   #name-social-container {
-    margin-top: 12
+    margin-top: 12;
   }
   #about {
     height: auto;
