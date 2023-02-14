@@ -634,9 +634,14 @@ button:focus {
   height: inherit;
   width: 50%;
 }
+@media only screen and (max-width:600px) {
+  #name-social-container {
+    margin-top: 10vh;
+  }
+}
 @media only screen and (max-width: 768px) {
   #name-social-container {
-    margin-top: 12;
+    margin-top: 12vh;
   }
   #about {
     height: auto;
