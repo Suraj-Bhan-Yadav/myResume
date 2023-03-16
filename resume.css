@@ -163,15 +163,18 @@ body::-webkit-scrollbar {
   background: black;
   color: white;
 }
-.fa-whatsapp {
-  background: rgb(4, 201, 112);
+.fa-instagram {
+  background: orangered;
   color: white;
 }
 .fa-twitter {
   background: #55acee;
   color: white;
 }
-
+.fa-telegram {
+  background: #55acee;
+  color: white;
+}
 /*  common can saySECTION  */
 
 section {
