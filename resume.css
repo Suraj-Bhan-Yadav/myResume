@@ -457,7 +457,7 @@ section:nth-child(2n + 1) {
 .portfolio-image-container:hover .portfolio-details {
   background-color: #80808078;
   color: white;
-  overflow: auto;
+  overflow: auto !important;
 }
 
 /* 6th contact section */
