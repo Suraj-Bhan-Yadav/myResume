@@ -39,19 +39,19 @@ body::-webkit-scrollbar {
 
 @keyframes example {
   0% {
-    background-image: url(image/hello2.png);
+    background-image: url(hello2.png);
   }
   25% {
-    background-image: url(image/bakground.png);
+    background-image: url(bakground.png);
   }
   50% {
-    background-image: url(image/backckground\ 6.png);
+    background-image: url(backckground\ 6.png);
   }
   75% {
-    background-image: url(image/keybord.png);
+    background-image: url(keybord.png);
   }
   100% {
-    background-image: url(image/background3.png);
+    background-image: url(background3.png);
   }
 }
 /*  1st main */
