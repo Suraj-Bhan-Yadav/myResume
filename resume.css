@@ -11,8 +11,8 @@ body::-webkit-scrollbar {
 /* Body header */
 #body-header {
   height: 65vh;
-  opacity: 0.8;
-  background-image: url(macbook_mouse.jpg);
+  opacity: 8;
+  background-image: url(AI-9.avif);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -58,7 +58,7 @@ body::-webkit-scrollbar {
 }
 .no-list-style li {
   font-weight: 100;
-  font-size: 0.9rem;
+  font-size: 2rem;
 }
 
 .no-list-style li a {
@@ -76,7 +76,7 @@ body::-webkit-scrollbar {
   display: inline-block;
   margin: 0px 9px 9px 0px;
   font-weight: 100;
-  font-size: 1.1rem;
+  font-size: 1.8rem;
 }
 .horizontal-list li a {
   color: white;
