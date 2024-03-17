@@ -9,7 +9,7 @@ body::-webkit-scrollbar {
 }
 
 /* Body header */
-#body-header {
+/* #body-header {
   height: 65vh;
   opacity: 8;
   background-image: url(AI-9.avif);
@@ -18,7 +18,42 @@ body::-webkit-scrollbar {
   background-attachment: fixed;
   padding-top: 1.2rem;
 }
+ */
 
+#body-header {
+  /* height: 65vh; */
+  height: 45vh;
+  opacity: 8;
+  /* background-image: url(image/macbook_mouse.jpg); */
+  /* background-image: url(image/AI-9.avif); */
+  animation-name: example;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  padding-bottom: 200px;
+  background-color: lightgray;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding-top: 1.2rem;
+}
+
+@keyframes example {
+  0% {
+    background-image: url(image/hello2.png);
+  }
+  25% {
+    background-image: url(image/bakground.png);
+  }
+  50% {
+    background-image: url(image/backckground\ 6.png);
+  }
+  75% {
+    background-image: url(image/keybord.png);
+  }
+  100% {
+    background-image: url(image/background3.png);
+  }
+}
 /*  1st main */
 
 /* Dropdown list  Lists */
